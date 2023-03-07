@@ -1,7 +1,7 @@
-<img align="center" alt="data" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRned5DjJdTKotQMOEKaNYmW13yrEI4HyiOGw&usqp=CAU">
+<img align="center" alt="data" width="100%" src="https://wallpapercave.com/wp/wp9165374.jpg">
 <h1 align="center">Hi 👋, I'm Sujan kumar</h1>
 <h3 align="center">FULL TIME PROGRAMMER PART TIME GAMER</h3>
-<img align="center" alt="gaming" width="400" src="https://media.tenor.com/F0U7d6InFbQAAAAC/gaming-cpu.gif">
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krystalm7&label=Profile%20views&color=0e75b6&style=flat" alt="krystalm7" /> </p>
 
