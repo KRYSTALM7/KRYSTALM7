@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sujan kumar</h1>
-<h3 align="center">Gaming is Love</h3>
+<h3 align="center">Full TIME PROGRAMMER PART TIME GAMER</h3>
 <img align="center" alt="gaming" width="400" src="https://media.tenor.com/F0U7d6InFbQAAAAC/gaming-cpu.gif"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krystalm7&label=Profile%20views&color=0e75b6&style=flat" alt="krystalm7" /> </p>
