@@ -1,4 +1,4 @@
-<img align="center" alt="data" width="400" src="https://d6vdma9166ldh.cloudfront.net/media/images/4594dcf8-a8c5-4fa7-a6d4-bab2c9081041.jpg">
+<img align="center" alt="data" width="100%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRned5DjJdTKotQMOEKaNYmW13yrEI4HyiOGw&usqp=CAU">
 <h1 align="center">Hi 👋, I'm Sujan kumar</h1>
 <h3 align="center">FULL TIME PROGRAMMER PART TIME GAMER</h3>
 <img align="center" alt="gaming" width="400" src="https://media.tenor.com/F0U7d6InFbQAAAAC/gaming-cpu.gif">
