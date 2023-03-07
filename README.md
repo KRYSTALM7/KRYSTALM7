@@ -1,7 +1,7 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif))](https://rishavchanda.io)
+<img align="center" alt="gaming" width="400" src="[https://media.tenor.com/F0U7d6InFbQAAAAC/gaming-cpu.gif](https://d6vdma9166ldh.cloudfront.net/media/images/4594dcf8-a8c5-4fa7-a6d4-bab2c9081041.jpg)">
 <h1 align="center">Hi 👋, I'm Sujan kumar</h1>
 <h3 align="center">FULL TIME PROGRAMMER PART TIME GAMER</h3>
-<img align="center" alt="gaming" width="400" src="https://media.tenor.com/F0U7d6InFbQAAAAC/gaming-cpu.gif"
+<img align="center" alt="gaming" width="400" src="https://media.tenor.com/F0U7d6InFbQAAAAC/gaming-cpu.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krystalm7&label=Profile%20views&color=0e75b6&style=flat" alt="krystalm7" /> </p>
 
