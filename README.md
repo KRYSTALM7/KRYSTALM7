@@ -37,4 +37,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=krystalm7&show_icons=true&locale=en" alt="krystalm7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=krystalm7&" alt="krystalm7" /></p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=KRYSTALM7)](https://github.com/ryo-ma/github-profile-trophy)
+(https://github-profile-trophy.vercel.app/?username=KRYSTALM7)](https://github.com/ryo-ma/github-profile-trophy)
