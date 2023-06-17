@@ -1,5 +1,10 @@
 # 💫 About Me:
-I am Currently Working  on Anomaly detection using GNN <br>
+🔭Anomaly detection using GNN
+👯Looking for fun Open Source Projects to Contribute to
+🤝 React Js
+🌱 Digital marketing 
+💬 Machine Learning and Deep Learning
+⚡ I Hate Web Development  <br>
 
 
 ## 🌐 Socials:
