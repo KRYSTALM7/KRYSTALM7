@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭Anomaly detection using GNN
-👯Looking for fun Open Source Projects to Contribute to
-🤝 React Js
-🌱 Digital marketing 
-💬 Machine Learning and Deep Learning
+🔭Anomaly detection using GNN <br>
+👯Looking for fun Open Source Projects to Contribute to<br>
+🤝 React Js<br>
+🌱 Digital marketing <br>
+💬 Machine Learning and Deep Learning<br>
 ⚡ I Hate Web Development  <br>
 
 
