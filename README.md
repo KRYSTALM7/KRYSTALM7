@@ -1,5 +1,8 @@
+<h2 align="left">Hi 👋! My name is  Sujan  and I'm a Student at VIT Vellore. I'm currently pursuing my bachelor's in Computer Science Engineering (2025)</h2>
+
+
 # 💫 About Me:
-🔭 I’m currently working on Anomaly Detection using Graph Neural Networks <br>👯 Looking for fun Open Source Projects to Contribute to<br>🤝 I’m looking for help with React JS<br>🌱 I’m currently learning  Data Structures <br>💬 Ask me about  Machine learning<br>⚡ I like WordPress 
+🔭 I’m currently working on Anomaly Detection using a Graph Neural network. 👯 Looking for fun Open Source Projects to Contribute to<br>🤝 I’m looking for help with React JS<br>🌱 I’m currently learning data structures. 💬 Ask me about  Machine learning<br>⚡ I like WordPress 
 
 
 ## 🌐 Socials:
