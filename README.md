@@ -5,7 +5,8 @@
 🔭 I’m currently working on Anomaly Detection using a Graph Neural network. <br>
 👯 Looking for fun Open Source Projects to Contribute to<br>
 🤝 I’m looking for help with React JS<br>
-🌱 I’m currently learning data structures. 💬 Ask me about  Machine learning<br>
+🌱 I’m currently learning data structures. <br>
+💬 Ask me about  Machine learning<br>
 ⚡ I like WordPress 
 
 
