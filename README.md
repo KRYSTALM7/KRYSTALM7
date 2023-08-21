@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Anomaly Detection using a Graph Neural network. <br>
+🔭 I’m currently working on Tumor Detection  <br>
 👯 Looking for fun Open Source Projects to Contribute to<br>
 🤝 I’m looking for help with React JS<br>
 🌱 I’m currently learning data structures. <br>
