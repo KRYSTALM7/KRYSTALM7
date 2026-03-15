@@ -147,10 +147,16 @@
 
 ## LeetCode Stats
 
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/SujanKumar?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
-</p>
-
+<table>
+  <tr>
+    <td valign="top" width="50%" align="center">
+      <img src="https://leetcard.jacoblin.cool/SujanKumar?theme=dark&font=JetBrains%20Mono&width=300&height=140&border=0&radius=8" width="300" alt="LeetCode Stats Left"/>
+    </td>
+    <td valign="top" width="50%" align="center">
+      <img src="https://leetcard.jacoblin.cool/SujanKumar?theme=dark&font=JetBrains%20Mono&width=300&height=140&border=0&radius=8&ext=heatmap" width="300" alt="LeetCode Stats Right"/>
+    </td>
+  </tr>
+</table>
 
 
 ---
