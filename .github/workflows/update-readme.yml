@@ -84,23 +84,3 @@ jobs:
           plugin_people_size: 28
           output_action: commit
           committer_branch: main
-
-      # =========================================
-      # LEETCODE PANEL (standalone)
-      # =========================================
-      - name: LeetCode Panel
-        uses: lowlighter/metrics@v3.34
-        with:
-          filename: metrics-leetcode.svg
-          token: ${{ secrets.METRICS }}
-          user: KRYSTALM7
-          base: ""
-          config_timezone: Asia/Kolkata
-          plugins_errors_fatal: no
-          plugin_leetcode: yes
-          plugin_leetcode_user: SujanKumar
-          plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_recent: 3
-          plugin_leetcode_limit_skills: 14
-          output_action: commit
-          committer_branch: main

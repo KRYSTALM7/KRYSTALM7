@@ -145,13 +145,12 @@
 
 ---
 
-## 🧩 LeetCode Stats
+## LeetCode Stats
 
-<div align="center">
-  <a href="https://metrics.lecoq.io/insights/KRYSTALM7">
-    <img src="metrics-leetcode.svg" width="60%" alt="LeetCode Stats" />
-  </a>
-</div>
+<p align="center">
+<img src="https://leetcode-stats-six.vercel.app/?username=SujanKumar&theme=dark&show_rank=true"/>
+</p>
+
 
 ---
 
