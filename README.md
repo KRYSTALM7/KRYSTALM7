@@ -148,8 +148,9 @@
 ## LeetCode Stats
 
 <p align="center">
-<img src="https://leetcode-stats-six.vercel.app/?username=SujanKumar&theme=dark&show_rank=true"/>
+<img src="https://leetcard.jacoblin.cool/SujanKumar?theme=dark&font=JetBrains%20Mono&ext=heatmap"/>
 </p>
+
 
 
 ---
