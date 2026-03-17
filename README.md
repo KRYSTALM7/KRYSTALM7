@@ -55,7 +55,7 @@
 
 ---
 
-## 🏅 Certifications
+##  Certifications
 
 <p align="center">
 
@@ -126,7 +126,7 @@
 
 ---
 
-## 📊 GitHub Dashboard
+## GitHub Dashboard
 
 <table>
   <tr>
