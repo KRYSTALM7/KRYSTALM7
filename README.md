@@ -33,7 +33,7 @@
 │  role         : Backend Engineer @ Tata Consultancy Services    │
 │  education    : M.Tech CS — VIT Vellore (GPA: 8.21/10)          │
 │  location     : Hyderabad, India                                │
-│  focus        : Distributed Systems · AI/ML · Cloud · GSoC      │
+│  focus        : Distributed Systems · AI/ML · Cloud             │
 │  published_in : Springer · Nature Portfolio · IET Book Chapter  │
 │  at_work      : Modernizing legacy COBOL → Java/Spring Boot     │
 │  fun_fact     : I build systems that talk                       │
