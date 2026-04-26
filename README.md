@@ -83,7 +83,7 @@
 
 | # | Title | Venue | Year |
 |---|---|---|---|
-| 01 | [Optimizing Charge–Discharge Cycles Using QPPONet-Enabled Hybrid Learning Framework for Energy Management and Safety in Electric Vehicles](https://www.nature.com/srep/) | Scientific Reports *(Nature Portfolio)* · Q1 · IF ~3.9 · Accepted | 2026 |
+| 01 | [Optimizing Charge–Discharge Cycles Using QPPONet-Enabled Hybrid Learning Framework for Energy Management and Safety in Electric Vehicles](https://www.nature.com/articles/s41598-026-43692-5) | Scientific Reports *(Nature Portfolio)* · Q1 · IF ~3.9 · Accepted | 2026 |
 | 02 | [Energy Optimization in EV Battery Management Systems — RL + ML hybrid framework](http://icsper.in/) | ICSPER *(Accepted · To be Published via Springer)* | 2025 |
 | 03 | [Generative AI for Brain Tumor Detection — GAN + CNN (VGG16, ResNet50)](https://digital-library.theiet.org/doi/abs/10.1049/PBPC076E_ch6) | IET Book Chapter · *Generative AI Unleashed* | 2024 |
 | 04 | [Fake News Integrity via LSTM + XGBoost — 92.4% on LIAR dataset](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003498094-9/enhancing-knowledge-management-integrity-fake-news-detection-sujan-kumar-ganesh-khekare-anurup-sankriti) | CKM 2024 · *Cybersecurity in Knowledge Management* | 2024 |
