@@ -2020,6 +2020,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-10.2, 12)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -2041,7 +2046,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KRYSTALM7/dos2-frost-summoner</span>
-                                        <span>starred 18 days ago</span>
+                                        <span>starred 19 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Personal DOS2 Frost Summoner build reference — private notes</div>
@@ -2088,7 +2093,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KRYSTALM7/joplin-image-alt-text</span>
-                                        <span>starred 26 days ago</span>
+                                        <span>starred 27 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">A Joplin plugin that automatically generates alt text for images in your notes using GPT-4o or Gemini 1.5 Flash, with local SQLite caching and safe Markdown rewriting.</div>
@@ -2141,7 +2146,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>KRYSTALM7/start-here</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New to Open Source Projects? Contribute to your very first open source project in this beginner-friendly code repository 👨‍💻!</div>
@@ -2194,7 +2199,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>yfosp/start-here</span>
-                                        <span>starred 28 days ago</span>
+                                        <span>starred 29 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">New to Open Source Projects? Contribute to your very first open source project in this beginner-friendly code repository 👨‍💻!</div>
