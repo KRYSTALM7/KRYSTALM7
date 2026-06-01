@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&width=750&lines=Backend+Engineer+%40+Tata+Consultancy+Services;M.Tech+Computer+Science+%40+VIT+Vellore;Computer+Science+Researcher+%F0%9F%93%84;Building+microservices+that+scale+%F0%9F%9A%80)](https://sujan-space.vercel.app/)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&width=750&lines=Researcher+%40+VIT+Vellore;M.Tech+Computer+Science+%40+VIT+Vellore;Computer+Science+Researcher+%F0%9F%93%84;Building+microservices+that+scale+%F0%9F%9A%80)](https://sujan-space.vercel.app/)
 
 </div>
 
