@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://sujan-space.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00FFB3&height=200&section=header&text=Sujan%20Kumar%20MV&fontSize=60&fontColor=00FFB3&fontAlignY=38&desc=Backend%20Engineer%20%40%20TCS%20%E2%80%A2%20Computer%20Science%20Researcher&descAlignY=58&descSize=16&descColor=a0ffd6&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00FFB3&height=200&section=header&text=Sujan%20Kumar%20MV&fontSize=60&fontColor=00FFB3&fontAlignY=38&desc=Computer%20Science%20Researcher%20%40%20VIT%20Vellore&descAlignY=58&descSize=16&descColor=a0ffd6&animation=twinkling" width="100%"/>
 </a>
 
 </div>
@@ -29,8 +29,7 @@
 ┌─────────────────────────────────────────────────────────────────┐
 │                                                                 │
 │  name         : Sujan Kumar MV                                  │
-│  alias        : KRYSTALM7                                       │
-│  role         : Backend Engineer @ Tata Consultancy Services    │
+│  alias        : KRYSTALM7                                       │   
 │  education    : M.Tech CS — VIT Vellore (GPA: 8.21/10)          │
 │  location     : Hyderabad, India                                │
 │  focus        : Distributed Systems · AI/ML · Cloud             │
