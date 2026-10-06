@@ -54,24 +54,24 @@
 
 ---
 
-##  Certifications
+## Certifications
 
 <p align="center">
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/22D2CA451EE76194?sharingId=8E5A85C7BA5D50FE">
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" height="120"/>
-</a>
-
-<a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/766CC0693F2030C7?sharingId=8E5A85C7BA5D50FE">
-  <img height="110" src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" title="AI-900: Microsoft Azure AI Fundamentals"/>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="120" title="Microsoft Certified: Azure Administrator Associate"/>
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/A42AC9279AE55E5?sharingId=8E5A85C7BA5D50FE">
-<img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="120"/>
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="120" title="Microsoft Certified: Azure Developer Associate"/>
+</a>
+
+<a href="https://summerofcode.withgoogle.com/">
+  <img src="https://img.shields.io/badge/Google%20Summer%20of%20Code-2026-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40" title="Google Summer of Code 2026"/>
 </a>
 
 <a href="https://www.mlsummerschool.com/">
-<img src="https://raw.githubusercontent.com/KRYSTALM7/KRYSTALM7/main/amazon-ml-summer-school.png" height="120"/>
+  <img src="https://raw.githubusercontent.com/KRYSTALM7/KRYSTALM7/main/amazon-ml-summer-school.png" height="120" title="Amazon ML Summer School 2024"/>
 </a>
 
 </p>
