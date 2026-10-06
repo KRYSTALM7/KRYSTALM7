@@ -67,7 +67,7 @@
 </a>
 
 <a href="https://summerofcode.withgoogle.com/">
-  <img src="https://img.shields.io/badge/Google%20Summer%20of%20Code-2026-4285F4?style=for-the-badge&logo=google&logoColor=white" height="40" title="Google Summer of Code 2026"/>
+  <img src="gsoc-2026.png" height="120" title="Google Summer of Code 2026" alt="Google Summer of Code 2026"/>
 </a>
 
 <a href="https://www.mlsummerschool.com/">
