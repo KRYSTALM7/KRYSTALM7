@@ -63,11 +63,20 @@
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/A42AC9279AE55E5?sharingId=8E5A85C7BA5D50FE">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="120" title="Microsoft Certified: Azure Developer Associate"/>
+  <img
+    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+    height="120"
+    title="Microsoft Certified: Azure Developer Associate"
+  />
 </a>
 
 <a href="https://summerofcode.withgoogle.com/">
-  <img src="gsoc-2026.png" height="120" title="Google Summer of Code 2026" alt="Google Summer of Code 2026"/>
+  <img
+    src="gsoc-2026.png"
+    height="120"
+    alt="Google Summer of Code 2026"
+    title="Google Summer of Code 2026"
+  />
 </a>
 
 <a href="https://www.mlsummerschool.com/">
