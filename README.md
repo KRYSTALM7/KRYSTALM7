@@ -53,22 +53,41 @@
 </div>
 
 ---
-
 ## Certifications
 
 <p align="center">
 
+<a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/766CC0693F2030C7?sharingId=8E5A85C7BA5D50FE">
+  <img
+    src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
+    height="120"
+    title="Microsoft Certified: Azure AI Fundamentals (AI-900)"
+  />
+</a>
+
 <a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/22D2CA451EE76194?sharingId=8E5A85C7BA5D50FE">
-  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg" height="120" title="Microsoft Certified: Azure Administrator Associate"/>
+  <img
+    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
+    height="120"
+    title="Microsoft Certified: Azure Administrator Associate (AZ-104)"
+  />
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/A42AC9279AE55E5?sharingId=8E5A85C7BA5D50FE">
   <img
     src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
     height="120"
-    title="Microsoft Certified: Azure Developer Associate"
+    title="Microsoft Certified: Azure Developer Associate (AZ-204)"
   />
 </a>
+
+</p>
+
+---
+
+## Programs
+
+<p align="center">
 
 <a href="https://summerofcode.withgoogle.com/">
   <img
@@ -80,7 +99,12 @@
 </a>
 
 <a href="https://www.mlsummerschool.com/">
-  <img src="https://raw.githubusercontent.com/KRYSTALM7/KRYSTALM7/main/amazon-ml-summer-school.png" height="120" title="Amazon ML Summer School 2024"/>
+  <img
+    src="amazon-ml-summer-school.png"
+    height="120"
+    alt="Amazon ML Summer School 2024"
+    title="Amazon ML Summer School 2024"
+  />
 </a>
 
 </p>
@@ -134,7 +158,7 @@
 
 ---
 
-## GitHub Dashboard
+## GitHub Activity
 
 <table>
   <tr>
@@ -150,14 +174,6 @@
     </td>
   </tr>
 </table>
-
----
-
-## LeetCode Stats
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/SujanKumar?theme=dark&font=JetBrains%20Mono&width=800&border=0&radius=8&ext=heatmap" width="800" alt="LeetCode Stats"/>
-</p>
 
 ---
 
