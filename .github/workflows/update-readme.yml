@@ -57,6 +57,19 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
 
+          # 📌 Starred topics
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 0
+
+          # 🕹️ Steam
+          plugin_steam: yes
+          plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
+          plugin_steam_user: "76561199150682391"
+          plugin_steam_sections: player, most-played, recently-played
+          plugin_steam_games_limit: 4
+          plugin_steam_recent_games_limit: 4
+
           # -----------------------------------------
           # Recent Coding Habits
           # -----------------------------------------
