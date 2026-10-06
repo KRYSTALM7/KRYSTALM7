@@ -20,7 +20,7 @@ jobs:
       # LEFT PANEL
       # =========================================
       - name: Left Panel
-        uses: ShawnXxy/metrics@1e49d0b8b932624dd7762147e35ccc137eda09f1
+        uses: lowlighter/metrics@v3.34
         with:
           filename: metrics-left.svg
           token: ${{ secrets.METRICS }}
