@@ -20,7 +20,7 @@ jobs:
       # LEFT PANEL
       # =========================================
       - name: Left Panel
-        uses: lowlighter/metrics@v3.34
+        uses: ShawnXxy/metrics@1e49d0b8b932624dd7762147e35ccc137eda09f1
         with:
           filename: metrics-left.svg
           token: ${{ secrets.METRICS }}
@@ -139,8 +139,8 @@ jobs:
           plugin_leetcode: yes
           plugin_leetcode_user: SujanKumar
           plugin_leetcode_sections: solved, skills, recent
-          plugin_leetcode_limit_skills: 10
-          plugin_leetcode_limit_recent: 5
+          plugin_leetcode_limit_skills: 6
+          plugin_leetcode_limit_recent: 3
 
           output_action: commit
           committer_branch: main
