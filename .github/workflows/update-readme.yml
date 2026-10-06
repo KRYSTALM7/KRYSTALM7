@@ -61,7 +61,7 @@ jobs:
           # Recent Coding Habits
           # -----------------------------------------
           plugin_habits: yes
-          plugin_habits_from: organization, user
+          plugin_habits_from: 200
           plugin_habits_facts: yes
 
           output_action: commit
