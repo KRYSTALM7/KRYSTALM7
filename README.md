@@ -55,33 +55,31 @@
 ---
 ## Certifications
 
+
+## Certifications
+
 <p align="center">
+  <img src="./certifications/AI-900.png"
+       height="140"
+       alt="Azure AI Fundamentals (AI-900)"
+       title="Microsoft Certified: Azure AI Fundamentals" />
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/766CC0693F2030C7?sharingId=8E5A85C7BA5D50FE">
-  <img
-    src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png"
-    height="120"
-    title="Microsoft Certified: Azure AI Fundamentals (AI-900)"
-  />
-</a>
+  <img src="./certifications/AZ-104.png"
+       height="140"
+       alt="Azure Administrator Associate (AZ-104)"
+       title="Microsoft Certified: Azure Administrator Associate" />
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/22D2CA451EE76194?sharingId=8E5A85C7BA5D50FE">
-  <img
-    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-    height="120"
-    title="Microsoft Certified: Azure Administrator Associate (AZ-104)"
-  />
-</a>
+  <img src="./certifications/AZ-204.png"
+       height="140"
+       alt="Azure Developer Associate (AZ-204)"
+       title="Microsoft Certified: Azure Developer Associate" />
 
-<a href="https://learn.microsoft.com/api/credentials/share/en-in/SujanKumar/A42AC9279AE55E5?sharingId=8E5A85C7BA5D50FE">
-  <img
-    src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-associate-badge.svg"
-    height="120"
-    title="Microsoft Certified: Azure Developer Associate (AZ-204)"
-  />
-</a>
-
+  <img src="./certifications/CCDV-F.png"
+       height="140"
+       alt="Claude Certified Developer Foundation"
+       title="Claude Certified Developer" />
 </p>
+
 
 ---
 
