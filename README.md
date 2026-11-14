@@ -55,7 +55,6 @@
 
 </div>
 
-
 ## Certifications
 
 <table align="center" width="100%">
@@ -75,7 +74,6 @@
   </tr>
 </table>
 
----
 
 ## Programs
 
@@ -84,9 +82,6 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="./amazon-ml-summer-school.png" height="120" alt="Amazon ML Summer School 2024"/>
 </p>
-
----
-
 
 
 ## Research & Publications
@@ -100,39 +95,36 @@
 
 ---
 
+
 ## Languages
 
 <p align="left">
-
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/html/html.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/css/css.png">
-
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png" title="Java" alt="Java"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" title="Python" alt="Python"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" title="TypeScript" alt="TypeScript"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" title="JavaScript" alt="JavaScript"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png" title="SQL" alt="SQL"/>
 </p>
+
 
 ---
 
 ## Tools & Frameworks
 
 <p align="left">
-
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-<img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png">
-
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/spring-boot/spring-boot.png" title="Spring Boot" alt="Spring Boot"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png" title="Angular" alt="Angular"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png" title="Django" alt="Django"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png" title="PostgreSQL" alt="PostgreSQL"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png" title="MySQL" alt="MySQL"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png" title="Docker" alt="Docker"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/azure/azure.png" title="Microsoft Azure" alt="Azure"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png" title="TensorFlow" alt="TensorFlow"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/pytorch/pytorch.png" title="PyTorch" alt="PyTorch"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" title="Git" alt="Git"/>
+  <img height="40" src="https://raw.githubusercontent.com/github/explore/master/topics/linux/linux.png" title="Linux" alt="Linux"/>
 </p>
+
 
 ---
 
