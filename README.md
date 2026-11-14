@@ -9,7 +9,6 @@
 
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=00FFB3&center=true&vCenter=true&width=850&lines=Software+Engineer+by+Profession;Student+Researcher+%40+VIT+Vellore;Open-Source+Contributor;Researching+the+Frontiers+of+Artificial+Intelligence)](https://sujan-space.vercel.app/)
 
 
@@ -56,30 +55,22 @@
 
 </div>
 
----
+
 ## Certifications
 
 <table align="center" width="100%">
   <tr>
     <td align="center" width="25%">
-      <img src="./certifications/AI-900.png" height="145" alt="Azure AI Fundamentals"/>
-      <br/><b>Azure AI Fundamentals</b>
-      <br/><sub>AI-900</sub>
+      <img src="./certifications/AI-900.png" height="150" alt="Azure AI Fundamentals"/>
     </td>
     <td align="center" width="25%">
-      <img src="./certifications/AZ-104.png" height="145" alt="Azure Administrator"/>
-      <br/><b>Azure Administrator</b>
-      <br/><sub>AZ-104</sub>
+      <img src="./certifications/AZ-104.png" height="150" alt="Azure Administrator Associate"/>
     </td>
     <td align="center" width="25%">
-      <img src="./certifications/AZ-204.png" height="145" alt="Azure Developer"/>
-      <br/><b>Azure Developer</b>
-      <br/><sub>AZ-204</sub>
+      <img src="./certifications/AZ-204.png" height="150" alt="Azure Developer Associate"/>
     </td>
     <td align="center" width="25%">
-      <img src="./certifications/CCDV-F.png" height="145" alt="Claude Certified Developer"/>
-      <br/><b>Claude Certified Developer</b>
-      <br/><sub>Foundations</sub>
+      <img src="./certifications/CCDV-F.png" height="150" alt="Claude Certified Developer"/>
     </td>
   </tr>
 </table>
@@ -89,16 +80,13 @@
 ## Programs
 
 <p align="center">
-  <a href="https://summerofcode.withgoogle.com/">
-    <img src="./gsoc-2026.png" height="120" alt="Google Summer of Code 2026"/>
-  </a>
+  <img src="./gsoc-2026.png" height="120" alt="Google Summer of Code 2026"/>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mlsummerschool.com/">
-    <img src="./amazon-ml-summer-school.png" height="120" alt="Amazon ML Summer School 2024"/>
-  </a>
+  <img src="./amazon-ml-summer-school.png" height="120" alt="Amazon ML Summer School 2024"/>
 </p>
 
 ---
+
 
 
 ## Research & Publications
