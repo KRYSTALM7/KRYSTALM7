@@ -1,14 +1,18 @@
 <div align="center">
 
 <a href="https://sujan-space.vercel.app/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00FFB3&height=200&section=header&text=Sujan%20Kumar%20MV&fontSize=60&fontColor=00FFB3&fontAlignY=38&desc=Computer%20Science%20Researcher%20%40%20VIT%20Vellore&descAlignY=58&descSize=16&descColor=a0ffd6&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a3d2e,100:00FFB3&height=200&section=header&text=Sujan%20Kumar%20MV&fontSize=60&fontColor=00FFB3&fontAlignY=35&desc=Software%20Engineer%20%7C%20Student%20Researcher%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=15&descColor=a0ffd6&animation=twinkling" width="100%" />
 </a>
+
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=1000&color=00FFB3&center=true&vCenter=true&width=750&lines=Researcher+%40+VIT+Vellore;M.Tech+Computer+Science+%40+VIT+Vellore;Computer+Science+Researcher+%F0%9F%93%84;Building+microservices+that+scale+%F0%9F%9A%80)](https://sujan-space.vercel.app/)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3000&pause=1200&color=00FFB3&center=true&vCenter=true&width=850&lines=Software+Engineer+by+Profession;Student+Researcher+%40+VIT+Vellore;Open-Source+Contributor;Researching+the+Frontiers+of+Artificial+Intelligence)](https://sujan-space.vercel.app/)
+
+
 
 </div>
 
@@ -55,59 +59,47 @@
 ---
 ## Certifications
 
-
-## Certifications
-
-<p align="center">
-  <img src="./certifications/AI-900.png"
-       height="140"
-       alt="Azure AI Fundamentals (AI-900)"
-       title="Microsoft Certified: Azure AI Fundamentals" />
-
-  <img src="./certifications/AZ-104.png"
-       height="140"
-       alt="Azure Administrator Associate (AZ-104)"
-       title="Microsoft Certified: Azure Administrator Associate" />
-
-  <img src="./certifications/AZ-204.png"
-       height="140"
-       alt="Azure Developer Associate (AZ-204)"
-       title="Microsoft Certified: Azure Developer Associate" />
-
-  <img src="./certifications/CCDV-F.png"
-       height="140"
-       alt="Claude Certified Developer Foundation"
-       title="Claude Certified Developer" />
-</p>
-
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="25%">
+      <img src="./certifications/AI-900.png" height="145" alt="Azure AI Fundamentals"/>
+      <br/><b>Azure AI Fundamentals</b>
+      <br/><sub>AI-900</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./certifications/AZ-104.png" height="145" alt="Azure Administrator"/>
+      <br/><b>Azure Administrator</b>
+      <br/><sub>AZ-104</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./certifications/AZ-204.png" height="145" alt="Azure Developer"/>
+      <br/><b>Azure Developer</b>
+      <br/><sub>AZ-204</sub>
+    </td>
+    <td align="center" width="25%">
+      <img src="./certifications/CCDV-F.png" height="145" alt="Claude Certified Developer"/>
+      <br/><b>Claude Certified Developer</b>
+      <br/><sub>Foundations</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## Programs
 
 <p align="center">
-
-<a href="https://summerofcode.withgoogle.com/">
-  <img
-    src="gsoc-2026.png"
-    height="120"
-    alt="Google Summer of Code 2026"
-    title="Google Summer of Code 2026"
-  />
-</a>
-
-<a href="https://www.mlsummerschool.com/">
-  <img
-    src="amazon-ml-summer-school.png"
-    height="120"
-    alt="Amazon ML Summer School 2024"
-    title="Amazon ML Summer School 2024"
-  />
-</a>
-
+  <a href="https://summerofcode.withgoogle.com/">
+    <img src="./gsoc-2026.png" height="120" alt="Google Summer of Code 2026"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mlsummerschool.com/">
+    <img src="./amazon-ml-summer-school.png" height="120" alt="Amazon ML Summer School 2024"/>
+  </a>
 </p>
 
 ---
+
 
 ## Research & Publications
 
